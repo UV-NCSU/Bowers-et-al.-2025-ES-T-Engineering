@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or edit any code from this repository, please cite it as below."
+authors:
+- family-names: "Bowers"
+  given-names: "Christopher A."
+  orcid: "https://orcid.org/0000-0003-4508-5004"
+- family-names: "Randall"
+  given-names: "Jason A."
+- family-names: "Jones"
+  given-names: "Christopher"
+- family-names: "Prast"
+  given-names: "Eric"
+- family-names: "Li"
+  given-names: "Xing"
+- family-names: "Mosca"
+  given-names: "Deborah A."
+- family-names: "Rasansky"
+  given-names: "Richard"
+- family-names: "Linden"
+  given-names: "Karl G."
+  orcid: "https://orcid.org/0000-0003-4301-7227"
+- family-names: "Blatchley"
+  given-names: "Ernest R."
+  orcid: "https://orcid.org/0000-0002-4561-8635"
+- family-names: "Ducoste"
+  given-names: "Joel"
+  orcid: "https://orcid.org/0000-0002-3021-3942"
+title: "Bowers-et-al.-2025-ES-T-Engineering"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-12-11
+url: "https://github.com/UV-NCSU/Bowers-et-al.-2025-ES-T-Engineering"
